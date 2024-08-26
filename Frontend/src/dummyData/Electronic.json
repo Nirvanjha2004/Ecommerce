@@ -1,0 +1,108 @@
+[
+    {
+      "id": "1",
+      "name": "Samsung Galaxy S21",
+      "price": "69999",
+      "image_url": "https://example.com/samsung-galaxy-s21.jpg",
+      "category": "Mobile Phones"
+    },
+    {
+      "id": "2",
+      "name": "Apple iPhone 13",
+      "price": "79999",
+      "image_url": "https://example.com/iphone-13.jpg",
+      "category": "Mobile Phones"
+    },
+    {
+      "id": "3",
+      "name": "OnePlus 9 Pro",
+      "price": "64999",
+      "image_url": "https://example.com/oneplus-9-pro.jpg",
+      "category": "Mobile Phones"
+    },
+    {
+      "id": "4",
+      "name": "Sony WH-1000XM4",
+      "price": "24999",
+      "image_url": "https://example.com/sony-wh-1000xm4.jpg",
+      "category": "Headphones"
+    },
+    {
+      "id": "5",
+      "name": "Bose QuietComfort 35 II",
+      "price": "29999",
+      "image_url": "https://example.com/bose-qc35-ii.jpg",
+      "category": "Headphones"
+    },
+    {
+      "id": "6",
+      "name": "Dell XPS 13",
+      "price": "99999",
+      "image_url": "https://example.com/dell-xps-13.jpg",
+      "category": "Laptops"
+    },
+    {
+      "id": "7",
+      "name": "MacBook Pro",
+      "price": "199999",
+      "image_url": "https://example.com/macbook-pro.jpg",
+      "category": "Laptops"
+    },
+    {
+      "id": "8",
+      "name": "Apple Watch Series 6",
+      "price": "40999",
+      "image_url": "https://example.com/apple-watch-series-6.jpg",
+      "category": "Wearables"
+    },
+    {
+      "id": "9",
+      "name": "Samsung Galaxy Watch 4",
+      "price": "26999",
+      "image_url": "https://example.com/galaxy-watch-4.jpg",
+      "category": "Wearables"
+    },
+    {
+      "id": "10",
+      "name": "Sony Bravia 55 Inch 4K TV",
+      "price": "79999",
+      "image_url": "https://example.com/sony-bravia-55.jpg",
+      "category": "Televisions"
+    },
+    {
+      "id": "11",
+      "name": "LG OLED 65 Inch 4K TV",
+      "price": "159999",
+      "image_url": "https://example.com/lg-oled-65.jpg",
+      "category": "Televisions"
+    },
+    {
+      "id": "12",
+      "name": "Canon EOS R5",
+      "price": "319999",
+      "image_url": "https://example.com/canon-eos-r5.jpg",
+      "category": "Cameras"
+    },
+    {
+      "id": "13",
+      "name": "Nikon Z6",
+      "price": "169999",
+      "image_url": "https://example.com/nikon-z6.jpg",
+      "category": "Cameras"
+    },
+    {
+      "id": "14",
+      "name": "Amazon Echo Dot 4th Gen",
+      "price": "4499",
+      "image_url": "https://example.com/echo-dot-4.jpg",
+      "category": "Smart Home"
+    },
+    {
+      "id": "15",
+      "name": "Google Nest Hub",
+      "price": "9999",
+      "image_url": "https://example.com/google-nest-hub.jpg",
+      "category": "Smart Home"
+    }
+  ]
+  

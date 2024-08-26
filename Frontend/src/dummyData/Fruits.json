@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "name": "Alphonso Mango",
+    "price": "499",
+    "image_url": "Images/alphonso.png",
+    "category": "Fruits"
+  },
+  {
+    "id": "2",
+    "name": "Banana",
+    "price": "50",
+    "image_url": "Images/banana.png",
+    "category": "Fruits"
+  },
+  {
+    "id": "3",
+    "name": "Green Apple",
+    "price": "299",
+    "image_url": "Images/greenapple.png",
+    "category": "Fruits"
+  },
+  {
+    "id": "4",
+    "name": "Papaya",
+    "price": "60",
+    "image_url": "Images/papaya.png",
+    "category": "Fruits"
+  },
+  {
+    "id": "5",
+    "name": "Pomegranate",
+    "price": "120",
+    "image_url": "Images/pomegrante.png",
+    "category": "Fruits"
+  },
+  {
+    "id": "6",
+    "name": "Watermelon",
+    "price": "40",
+    "image_url": "Images/watermelon.png",
+    "category": "Fruits"
+  },
+  {
+    "id": "7",
+    "name": "Grapes",
+    "price": "90",
+    "image_url": "Images/grapes.png",
+    "category": "Fruits"
+  },
+  {
+    "id": "8",
+    "name": "Pineapple",
+    "price": "60",
+    "image_url": "Images/pineapple.png",
+    "category": "Fruits"
+  },
+  {
+    "id": "9",
+    "name": "Guava",
+    "price": "50",
+    "image_url": "https://example.com/guava.jpg",
+    "category": "Fruits"
+  },
+  {
+    "id": "10",
+    "name": "Strawberries",
+    "price": "150",
+    "image_url": "https://example.com/strawberries.jpg",
+    "category": "Fruits"
+  },
+  {
+    "id": "11",
+    "name": "Chikoo",
+    "price": "80",
+    "image_url": "https://example.com/chikoo.jpg",
+    "category": "Fruits"
+  },
+  {
+    "id": "12",
+    "name": "Musk Melon",
+    "price": "30",
+    "image_url": "https://example.com/musk-melon.jpg",
+    "category": "Fruits"
+  },
+  {
+    "id": "13",
+    "name": "Kiwi",
+    "price": "200",
+    "image_url": "https://example.com/kiwi.jpg",
+    "category": "Fruits"
+  },
+  {
+    "id": "14",
+    "name": "Oranges",
+    "price": "60",
+    "image_url": "https://example.com/oranges.jpg",
+    "category": "Fruits"
+  },
+  {
+    "id": "15",
+    "name": "Blackberry",
+    "price": "150",
+    "image_url": "https://example.com/blackberry.jpg",
+    "category": "Fruits"
+  }
+]

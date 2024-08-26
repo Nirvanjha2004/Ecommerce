@@ -1,0 +1,108 @@
+[
+    {
+      "id": "1",
+      "name": "Mega Frozen Prawns",
+      "price": "360",
+      "image_url": "https://example.com/idli-batter.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "2",
+      "name": "Premium Chicken Curry",
+      "price": "165",
+      "image_url": "https://example.com/dosa-batter.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "3",
+      "name": "Fresh Eggs(12 Pieces)",
+      "price": "90",
+      "image_url": "https://example.com/poha.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "4",
+      "name": "Frozen River Salmon",
+      "price": "150",
+      "image_url": "https://example.com/upma.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "5",
+      "name": "Rohu Fish Bengali",
+      "price": "199",
+      "image_url": "https://example.com/rava-idli.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "6",
+      "name": "Tilapia/Jalebi Fish",
+      "price": "148",
+      "image_url": "https://example.com/oats.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "7",
+      "name": "Frozen Seafood Mix",
+      "price": "120",
+      "image_url": "https://example.com/cornflakes.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "8",
+      "name": "Frozen Squid ",
+      "price": "240",
+      "image_url": "https://example.com/pav-bhaji.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "9",
+      "name": "Frozen Baby Octopus",
+      "price": "250",
+      "image_url": "https://example.com/besan-chilla.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "10",
+      "name": "Frozen Calamari Tubes",
+      "price": "245",
+      "image_url": "https://example.com/vermicelli.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "11",
+      "name": "BoneLess Chicken",
+      "price": "230",
+      "image_url": "https://example.com/aloo-paratha.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "12",
+      "name": "Chicken Drumsticks",
+      "price": "335",
+      "image_url": "https://example.com/methi-paratha.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "13",
+      "name": "Mutton Curry",
+      "price": "370",
+      "image_url": "https://example.com/pesarattu.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "14",
+      "name": "Goat Curry Cut",
+      "price": "225",
+      "image_url": "https://example.com/bread.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "15",
+      "name": "Frozen Peeled Prawns",
+      "price": "155",
+      "image_url": "https://example.com/rava-dosa.jpg",
+      "category": "Breakfast Foods"
+    }
+  ]
+  

@@ -1,0 +1,123 @@
+[   
+    {   
+      "id": 1,   
+      "name": "Wireless Bluetooth Headphones",   
+      "price": "2999",   
+      "image_url": "https://example.com/images/product1.jpg"   
+    },   
+    {   
+      "id": 2,   
+      "name": "Portable Charger 10000mAh",   
+      "price": "1999",   
+      "image_url": "https://example.com/images/product2.jpg"   
+    },   
+    {   
+      "id": 3,   
+      "name": "Smartwatch with Heart Rate Monitor",   
+      "price": "4999",   
+      "image_url": "https://example.com/images/product3.jpg"   
+    },   
+    {   
+      "id": 4,   
+      "name": "Waterproof Action Camera 4K",   
+      "price": "7999",   
+      "image_url": "https://example.com/images/product4.jpg"   
+    },   
+    {   
+      "id": 5,   
+      "name": "Wireless Earbuds with Charging Case",   
+      "price": "3999",   
+      "image_url": "https://example.com/images/product5.jpg"   
+    },   
+    {   
+      "id": 6,   
+      "name": "Fitness Tracker with Sleep Monitor",   
+      "price": "2499",   
+      "image_url": "https://example.com/images/product6.jpg"   
+    },   
+    {   
+      "id": 7,   
+      "name": "Smart Home Wi-Fi Plug",   
+      "price": "1499",   
+      "image_url": "https://example.com/images/product7.jpg"   
+    },   
+    {   
+      "id": 8,   
+      "name": "HDMI to VGA Adapter",   
+      "price": "999",   
+      "image_url": "https://example.com/images/product8.jpg"   
+    },   
+    {   
+      "id": 9,   
+      "name": "USB-C Hub with Ethernet",   
+      "price": "2999",   
+      "image_url": "https://example.com/images/product9.jpg"   
+    },   
+    {   
+      "id": 10,   
+      "name": "Portable Bluetooth Speaker",   
+      "price": "2599",   
+      "image_url": "https://example.com/images/product10.jpg"   
+    },   
+    {   
+      "id": 11,   
+      "name": "Fresh Organic Apples (1 lb)",   
+      "price": "349",   
+      "image_url": "https://example.com/images/product11.jpg"   
+    },   
+    {   
+      "id": 12,   
+      "name": "Bananas (1 bunch)",   
+      "price": "129",   
+      "image_url": "https://example.com/images/product12.jpg"   
+    },   
+    {   
+      "id": 13,   
+      "name": "Fresh Carrots (2 lbs)",   
+      "price": "299",   
+      "image_url": "https://example.com/images/product13.jpg"   
+    },   
+    {   
+      "id": 14,   
+      "name": "Organic Spinach (1 lb)",   
+      "price": "499",   
+      "image_url": "https://example.com/images/product14.jpg"   
+    },   
+    {   
+      "id": 15,   
+      "name": "Toothpaste - Mint Flavor (6 oz)",   
+      "price": "399",   
+      "image_url": "https://example.com/images/product15.jpg"   
+    },   
+    {   
+      "id": 16,   
+      "name": "Shampoo - Herbal Essence (12 oz)",   
+      "price": "599",   
+      "image_url": "https://example.com/images/product16.jpg"   
+    },   
+    {   
+      "id": 17,   
+      "name": "Deodorant Stick - Fresh Scent (2.6 oz)",   
+      "price": "449",   
+      "image_url": "https://example.com/images/product17.jpg"   
+    },   
+    {   
+      "id": 18,   
+      "name": "Oatmeal - Instant (10 packets)",   
+      "price": "699",   
+      "image_url": "https://example.com/images/product18.jpg"   
+    },   
+    {   
+      "id": 19,   
+      "name": "Corn Flakes Cereal (18 oz)",   
+      "price": "399",   
+      "image_url": "https://example.com/images/product19.jpg"   
+    },   
+    {   
+      "id": 20,   
+      "name": "Granola Bars - Variety Pack (12 count)",   
+      "price": "799",   
+      "image_url": "https://example.com/images/product20.jpg"   
+    }   
+  ]   
+     

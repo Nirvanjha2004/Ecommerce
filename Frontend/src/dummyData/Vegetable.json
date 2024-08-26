@@ -1,0 +1,108 @@
+[
+    {
+      "id": "1",
+      "name": "Tomato",
+      "price": "20",
+      "image_url": "https://example.com/tomato.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": "2",
+      "name": "Potato",
+      "price": "30",
+      "image_url": "https://example.com/potato.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": "3",
+      "name": "Onion",
+      "price": "25",
+      "image_url": "https://example.com/onion.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": "4",
+      "name": "Carrot",
+      "price": "40",
+      "image_url": "https://example.com/carrot.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": "5",
+      "name": "Cauliflower",
+      "price": "50",
+      "image_url": "https://example.com/cauliflower.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": "6",
+      "name": "Spinach",
+      "price": "20",
+      "image_url": "https://example.com/spinach.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": "7",
+      "name": "Cucumber",
+      "price": "25",
+      "image_url": "https://example.com/cucumber.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": "8",
+      "name": "Bell Pepper",
+      "price": "60",
+      "image_url": "https://example.com/bell-pepper.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": "9",
+      "name": "Eggplant",
+      "price": "35",
+      "image_url": "https://example.com/eggplant.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": "10",
+      "name": "Ginger",
+      "price": "90",
+      "image_url": "https://example.com/ginger.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": "11",
+      "name": "Garlic",
+      "price": "120",
+      "image_url": "https://example.com/garlic.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": "12",
+      "name": "Green Peas",
+      "price": "70",
+      "image_url": "https://example.com/green-peas.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": "13",
+      "name": "Bitter Gourd",
+      "price": "40",
+      "image_url": "https://example.com/bitter-gourd.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": "14",
+      "name": "Okra",
+      "price": "30",
+      "image_url": "https://example.com/okra.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": "15",
+      "name": "Pumpkin",
+      "price": "50",
+      "image_url": "https://example.com/pumpkin.jpg",
+      "category": "Vegetables"
+    }
+  ]
+  

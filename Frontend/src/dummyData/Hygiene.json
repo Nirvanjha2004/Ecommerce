@@ -1,0 +1,108 @@
+[
+    {
+      "id": "1",
+      "name": "Colgate Max fresh",
+      "price": "170",
+      "image_url": "https://example.com/whey-protein.jpg",
+      "category": "Supplements"
+    },
+    {
+      "id": "2",
+      "name": "Sensodyne Repair and protect",
+      "price": "189",
+      "image_url": "https://example.com/multivitamin.jpg",
+      "category": "Vitamins & Supplements"
+    },
+    {
+      "id": "3",
+      "name": "Presto Kitchen Tissue",
+      "price": "129",
+      "image_url": "https://example.com/fish-oil.jpg",
+      "category": "Supplements"
+    },
+    {
+      "id": "4",
+      "name": "Presto Facial Tissue",
+      "price": "299",
+      "image_url": "https://example.com/green-tea.jpg",
+      "category": "Supplements"
+    },
+    {
+      "id": "5",
+      "name": "Solimo Handwash Rifill can",
+      "price": "499",
+      "image_url": "https://example.com/chia-seeds.jpg",
+      "category": "Superfoods"
+    },
+    {
+      "id": "6",
+      "name": "Whisper Sanitary Pads",
+      "price": "429",
+      "image_url": "https://example.com/almond-butter.jpg",
+      "category": "Nut Butters"
+    },
+    {
+      "id": "7",
+      "name": "Gillete Mach 3",
+      "price": "199",
+      "image_url": "https://example.com/flax-seeds.jpg",
+      "category": "Superfoods"
+    },
+    {
+      "id": "8",
+      "name": "Gillete Venus Hair Removal for Women",
+      "price": "299",
+      "image_url": "https://example.com/vitamin-c.jpg",
+      "category": "Vitamins & Supplements"
+    },
+    {
+      "id": "9",
+      "name": "Veet Pure Hair Removal",
+      "price": "199",
+      "image_url": "https://example.com/collagen.jpg",
+      "category": "Supplements"
+    },
+    {
+      "id": "10",
+      "name": "Gillete Shave Foam",
+      "price": "399",
+      "image_url": "https://example.com/apple-cider-vinegar.jpg",
+      "category": "Detox"
+    },
+    {
+      "id": "11",
+      "name": "Dettol Liquid Handwash",
+      "price": "189",
+      "image_url": "https://example.com/quinoa.jpg",
+      "category": "Superfoods"
+    },
+    {
+      "id": "12",
+      "name": "Dove Mosturising Liquid",
+      "price": "232",
+      "image_url": "https://example.com/honey.jpg",
+      "category": "Natural Sweeteners"
+    },
+    {
+      "id": "13",
+      "name": "Neutrogena Deep Clean Face Wash",
+      "price": "249",
+      "image_url": "https://example.com/herbal-green-tea.jpg",
+      "category": "Tea"
+    },
+    {
+      "id": "14",
+      "name": "Himalaya Oil Clear Lemon Face Wash",
+      "price": "799",
+      "image_url": "https://example.com/protein-bar.jpg",
+      "category": "Snacks"
+    },
+    {
+      "id": "15",
+      "name": "Parachute Coconut Oil",
+      "price": "149",
+      "image_url": "https://example.com/turmeric.jpg",
+      "category": "Herbs & Spices"
+    }
+  ]
+  

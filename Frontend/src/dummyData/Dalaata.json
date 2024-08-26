@@ -1,0 +1,108 @@
+[
+    {
+      "id": "1",
+      "name": "Tata Sampann Unpolished Toor Dal/Arhar Dal, 1kg",
+      "price": "199",
+      "image_url": "https://example.com/idli-batter.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "2",
+      "name": "Fresh Beans, Haricot, 250g",
+      "price": "165",
+      "image_url": "https://example.com/dosa-batter.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "3",
+      "name": "Tata Sampann White Thin Poha, 500g ",
+      "price": "90",
+      "image_url": "https://example.com/poha.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "4",
+      "name": "‘Quaker Oats 1kg, Rolled ",
+      "price": "150",
+      "image_url": "https://example.com/upma.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "5",
+      "name": "Amazon Brand - Vedaka Dalia (Broken Wheat), 1kg",
+      "price": "199",
+      "image_url": "https://example.com/rava-idli.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "6",
+      "name": "Kellogg's Oats",
+      "price": "148",
+      "image_url": "https://example.com/oats.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "7",
+      "name": " Nutrela Soya Mini Chunks",
+      "price": "120",
+      "image_url": "https://example.com/cornflakes.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "8",
+      "name": "Double Horse SOYA Chunks",
+      "price": "240",
+      "image_url": "https://example.com/pav-bhaji.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "9",
+      "name": "Sunfeast Millets Ragi & Jowar Cooki",
+      "price": "250",
+      "image_url": "https://example.com/besan-chilla.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "10",
+      "name": "Organic Tativa Red Poha",
+      "price": "245",
+      "image_url": "https://example.com/vermicelli.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "11",
+      "name": "Puro Healthy Salt, 1kg",
+      "price": "230",
+      "image_url": "https://example.com/aloo-paratha.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "12",
+      "name": "Nourish Organics Onion Poha ",
+      "price": "335",
+      "image_url": "https://example.com/methi-paratha.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "13",
+      "name": "Daawat Rozana Basmati Rice 5Kg",
+      "price": "370",
+      "image_url": "https://example.com/pesarattu.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "14",
+      "name": "Vedaka Raw Peanuts | Pink ",
+      "price": "225",
+      "image_url": "https://example.com/bread.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "15",
+      "name": "Ching’s Schezwan Chutney",
+      "price": "155",
+      "image_url": "https://example.com/rava-dosa.jpg",
+      "category": "Breakfast Foods"
+    }
+  ]
+  

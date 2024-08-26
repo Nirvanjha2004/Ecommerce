@@ -1,0 +1,108 @@
+[
+    {
+      "id": "1",
+      "name": "Idli Batter",
+      "price": "60",
+      "image_url": "https://example.com/idli-batter.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "2",
+      "name": "Dosa Batter",
+      "price": "65",
+      "image_url": "https://example.com/dosa-batter.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "3",
+      "name": "Poha",
+      "price": "40",
+      "image_url": "https://example.com/poha.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "4",
+      "name": "Upma Mix",
+      "price": "50",
+      "image_url": "https://example.com/upma.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "5",
+      "name": "Rava Idli Mix",
+      "price": "55",
+      "image_url": "https://example.com/rava-idli.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "6",
+      "name": "Instant Oats",
+      "price": "90",
+      "image_url": "https://example.com/oats.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "7",
+      "name": "Cornflakes",
+      "price": "120",
+      "image_url": "https://example.com/cornflakes.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "8",
+      "name": "Pav Bhaji Masala",
+      "price": "40",
+      "image_url": "https://example.com/pav-bhaji.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "9",
+      "name": "Besan Chilla Mix",
+      "price": "50",
+      "image_url": "https://example.com/besan-chilla.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "10",
+      "name": "Instant Vermicelli",
+      "price": "45",
+      "image_url": "https://example.com/vermicelli.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "11",
+      "name": "Aloo Paratha",
+      "price": "30",
+      "image_url": "https://example.com/aloo-paratha.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "12",
+      "name": "Methi Paratha",
+      "price": "35",
+      "image_url": "https://example.com/methi-paratha.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "13",
+      "name": "Pesarattu Batter",
+      "price": "70",
+      "image_url": "https://example.com/pesarattu.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "14",
+      "name": "Bread",
+      "price": "25",
+      "image_url": "https://example.com/bread.jpg",
+      "category": "Breakfast Foods"
+    },
+    {
+      "id": "15",
+      "name": "Instant Rava Dosa Mix",
+      "price": "55",
+      "image_url": "https://example.com/rava-dosa.jpg",
+      "category": "Breakfast Foods"
+    }
+  ]
+  
